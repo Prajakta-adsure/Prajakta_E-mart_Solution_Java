@@ -1,0 +1,29 @@
+2025-02-21 18:57:02,758 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-02-21 18:57:29,601 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:E-mart:0.0.1-SNAPSHOT @ C:\Users\HP\OneDrive\Desktop\Project\E-mart\pom.xml.
+2025-02-21 18:57:32,071 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:E-mart:0.0.1-SNAPSHOT @ C:\Users\HP\OneDrive\Desktop\Project\E-mart\pom.xml.
+2025-02-21 18:57:36,598 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 18:57:36,633 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-21 18:57:36,642 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
+2025-02-21 18:57:39,595 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:E-mart:0.0.1-SNAPSHOT @ C:\Users\HP\OneDrive\Desktop\Project\E-mart\pom.xml.
+2025-02-21 18:57:40,114 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 18:57:40,134 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-21 18:57:40,149 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
+2025-02-21 18:57:41,596 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 18:57:41,599 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-21 18:57:41,610 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
+2025-02-21 18:59:00,028 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:E-mart:0.0.1-SNAPSHOT @ C:\Users\HP\OneDrive\Desktop\Project\E-mart\pom.xml.
+2025-02-21 18:59:00,831 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 18:59:00,833 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 18:59:00,838 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
+2025-02-21 18:59:02,595 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 18:59:02,614 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-21 18:59:02,628 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
+2025-02-21 19:00:16,634 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 19:00:16,638 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-21 19:00:16,647 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
+2025-02-21 19:01:00,104 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 19:01:00,112 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 19:01:00,116 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
+2025-02-21 19:21:59,555 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 19:21:59,808 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 19:21:59,847 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\OneDrive\Desktop\Project\E-mart\src\test\resources
