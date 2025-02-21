@@ -41,5 +41,5 @@ mvn spring-boot:run
 🚀 Introduce AI-based product recommendations  
 🚀 Implement GraphQL for efficient querying  
 
-🔗 **GitHub:** [Your GitHub Repo Link Here]  
+🔗 **GitHub:** https://github.com/Prajakta-adsure/Prajakta_E-mart_Solution_Java.git
 
